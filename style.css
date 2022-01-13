@@ -1,4 +1,5 @@
 .kek {
 display: flex;
-justife-content: center;
+    align-items: center;
+    flex-direction: column;
 }
